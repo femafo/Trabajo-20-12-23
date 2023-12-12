@@ -1,6 +1,6 @@
 # TikTok
 
-    ** Para otros usos de este término, véase Tik Tok. **
+*Para otros usos de este término, véase Tik Tok.*
 
 TikTok, conocido en China como Douyin (Chino: 抖音; pinyin: Dǒuyīn), es una red social de origen chino para compartir videos cortos y en formato vertical propiedad de la empresa china ByteDance.4​ La plataforma se utiliza para hacer una variedad de videos de formato corto y vertical, desde géneros como danza, comedia y educación, etc., que tienen una duración de 1 segundo, hasta 10 minutos.5​6​ Los videos cortos no tienen un plazo determinado de reproducción, por lo tanto cuando acaban vuelven a empezar otra vez en un bucle infinito.
 
