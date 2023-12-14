@@ -1,4 +1,5 @@
-# TikTok                                                                ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanalviax.com%2Ftecnologia%2Fpor-que-tik-tok-es-tan-adictivo%2F&psig=AOvVaw2hbjurwcvcrag2dvvPaviy&ust=1702627123469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjk97K6joMDFQAAAAAdAAAAABAD "Logo Title Text 1")
+# TikTok                                                                
+![TikTok](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanalviax.com%2Ftecnologia%2Fpor-que-tik-tok-es-tan-adictivo%2F&psig=AOvVaw2hbjurwcvcrag2dvvPaviy&ust=1702627123469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjk97K6joMDFQAAAAAdAAAAABAD)
 
 *Para otros usos de este término, véase Tik Tok.*
 
