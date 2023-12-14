@@ -1,6 +1,6 @@
 # TikTok                                                                
 
-![TiTok](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanalviax.com%2Ftecnologia%2Fpor-que-tik-tok-es-tan-adictivo%2F&psig=AOvVaw2hbjurwcvcrag2dvvPaviy&ust=1702627123469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjk97K6joMDFQAAAAAdAAAAABAD)
+![TiTok](https://canalviax.com/wp-content/uploads/2023/02/tik-tok.jpg)
 
 *Para otros usos de este término, véase Tik Tok.*
 
