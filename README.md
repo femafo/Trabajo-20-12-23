@@ -70,7 +70,7 @@ Las preocupaciones sobre la privacidad y la seguridad de los datos han sido part
 
 
 ## Ventajas:
-![Ventajas](https://cdn-icons-png.flaticon.com/512/8712/8712643.png){:height="200px" width="200px"}
+<img src="https://cdn-icons-png.flaticon.com/512/8712/8712643.png" alt="Texto alternativo" width="200" height="200">
 
 **Acceso rápido a la audiencia joven:** TikTok tiene una base de usuarios muy grande, especialmente entre los adolescentes y jóvenes adultos. Si tu objetivo es llegar a esta demografía, TikTok puede ser una plataforma efectiva.
 
