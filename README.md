@@ -85,7 +85,7 @@ Las preocupaciones sobre la privacidad y la seguridad de los datos han sido part
 
 
 ## Desventajas
-![Desventajas](https://cdn-icons-png.flaticon.com/512/8712/8712760.png){:height="200px" width="200px"}
+<img src="https://cdn-icons-png.flaticon.com/512/8712/8712760.png" alt="Texto alternativo" width="200" height="200">
 
 **Contenido efímero:** Los videos en TikTok son breves y pueden desaparecer rápidamente en la corriente de contenido. Esto puede hacer que sea más difícil para los creadores construir una presencia a largo plazo.
 
